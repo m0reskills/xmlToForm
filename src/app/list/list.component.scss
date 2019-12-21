@@ -1,0 +1,9 @@
+.example-container {
+  display: flex;
+  padding-top: 10px;
+}
+
+.example-container > * {
+  margin-left: 20px;
+  width: 80%;
+}
