@@ -57,7 +57,7 @@ export class ListComponent implements OnInit {
         operator = '&lt;';
         break;
       case '>' :
-        operator = '&lt;';
+        operator = '&gt;';
         break;
     }
     return operator;
